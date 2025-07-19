@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreedhar Kala Magar
 - 👀 I’m interested in Tech,playing Games
-- 🌱 I’m currently learning BEI, parallelly AI,full-stack web dev
+- 🌱 I’m currently learning BEI, parallelly AI,full-stack web dev, web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linked IN :-  www.linkedin.com/in/shreedhar-kala-magar-7a66b424b
 - 😄 Pronouns: HE
